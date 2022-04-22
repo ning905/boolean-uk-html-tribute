@@ -43,6 +43,10 @@ img {
     border-radius: 10px;
 }
 
+img:hover {
+    border-color: #FFADAD;
+}
+
 ul {
     padding: 20px;
     display: grid;
